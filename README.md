@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @didiergrand. I'am a Web designer for 20 years, I am currently front end designer / developer at Scott Sports. I am also working on a few other personal projects.
+- 🌱 I’m passionate about web design, cycling and nature. I have my own way of life, I am passionate about many things. When I find a project that captivate me, I take the time to realize it.
+- 👀 I am currently on the Front End Web Developer Nanodegree program on Udacity to improve my skills.
